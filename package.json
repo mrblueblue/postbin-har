@@ -1,0 +1,22 @@
+{
+  "name": "postbin-har",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrblueblue/postbin-har.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrblueblue/postbin-har/issues"
+  },
+  "homepage": "https://github.com/mrblueblue/postbin-har#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
